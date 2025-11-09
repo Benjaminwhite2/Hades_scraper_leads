@@ -1,0 +1,10 @@
+{
+  "name": "hades-scraper",
+  "version": "1.0",
+  "buildTag": "latest",
+  "actorSpecification": 1,
+  "env": {
+    "APIFY_MEMORY_MBYTES": "2048",
+    "APIFY_TIMEOUT_SECS": "3600"
+  }
+}
