@@ -1,0 +1,14 @@
+{
+  "name": "hades-scraper",
+  "version": "1.0.0",
+  "description": "Hades automation: scrapes Instagram hashtags, pushes leads to Google Sheets every 6 hours.",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
